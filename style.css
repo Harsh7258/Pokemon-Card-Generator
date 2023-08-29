@@ -9,6 +9,13 @@ body{
     background-color: aliceblue;
 }
 
+ .img-container{
+     /* background-image: url(VHH1EMf-free-pokemon-wallpaper.jpg); */
+     background-attachment: fixed;
+     width: fit-content;
+ 
+} 
+
 .container{
     width: 350px;
     position: absolute;
